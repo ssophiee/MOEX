@@ -19,7 +19,7 @@ Analyzing the correlation between stock prices and their ticker symbols
 
 <img width="406" alt="Screenshot 2022-07-09 at 3 15 37 PM" src="https://user-images.githubusercontent.com/75318962/178105348-7343300b-14f2-42f3-9b6d-fdf5c514473c.png">
 
-2. 
+2. dc
 
 ###                                                                   Зависимости
 
