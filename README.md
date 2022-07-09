@@ -1,11 +1,10 @@
 ## MOEX
-Analyzing the correlation between stock prices and their ticker symbols 
 
+Анализ 
 
 | Название | Содержание | 
 |----------------|----------------|
-| news_parsing.py | Файл с функциями |
-| Stocks.ipynb | Статьи за март/апрель в The Economist |
+| Stocks.ipynb | Ноутбук формата .ipynb с детальным описанием проекта |
 | requirements.txt | Требуемые библиотеки |
 
 
