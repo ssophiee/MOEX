@@ -34,7 +34,7 @@
 
 
   **Telegram**: @sophi_nikol\
-  **VK**: https://vk.com/nik_sophi\
-  **Email**: nikolenko.sofiya@list.ru\
+  **VK**: https://vk.com/nik_sophi \
+  **Email**: nikolenko.sofiya@list.ru \
 
 [1] - краткое название в биржевой информации котируемых инструментов (акций, облигаций, индексов)
